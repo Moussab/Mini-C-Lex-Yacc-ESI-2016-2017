@@ -1,0 +1,15 @@
+int main(int F, int G)
+{
+int a,b,c,d,e;
+
+	while((a+b) > c <= (d*e+a)){
+	
+		a = a +1 ;
+		do
+			F = a + 1;
+		while( F <= a);
+		
+		G = F;
+	
+	}
+}
